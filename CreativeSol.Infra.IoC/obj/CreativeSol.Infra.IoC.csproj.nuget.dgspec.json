@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.IoC\\CreativeSol.Infra.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Application\\CreativeSol.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Application\\CreativeSol.Application.csproj",
+        "projectName": "CreativeSol.Application",
+        "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Application\\CreativeSol.Application.csproj",
+        "packagesPath": "C:\\Users\\Yuki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yuki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj": {
+                "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj",
+        "projectName": "CreativeSol.Domain",
+        "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj",
+        "packagesPath": "C:\\Users\\Yuki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yuki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.Data\\CreativeSol.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.Data\\CreativeSol.Infra.Data.csproj",
+        "projectName": "CreativeSol.Infra.Data",
+        "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.Data\\CreativeSol.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Yuki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yuki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj": {
+                "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.IoC\\CreativeSol.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.IoC\\CreativeSol.Infra.IoC.csproj",
+        "projectName": "CreativeSol.Infra.IoC",
+        "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.IoC\\CreativeSol.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Yuki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yuki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Application\\CreativeSol.Application.csproj": {
+                "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Application\\CreativeSol.Application.csproj"
+              },
+              "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj": {
+                "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Domain\\CreativeSol.Domain.csproj"
+              },
+              "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.Data\\CreativeSol.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Yuki\\CreativeSol\\CreativeSol.Infra.Data\\CreativeSol.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

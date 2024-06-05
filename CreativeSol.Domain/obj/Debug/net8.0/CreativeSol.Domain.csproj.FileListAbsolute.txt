@@ -1,0 +1,11 @@
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\bin\Debug\net8.0\CreativeSol.Domain.deps.json
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\bin\Debug\net8.0\CreativeSol.Domain.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\bin\Debug\net8.0\CreativeSol.Domain.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\CreativeSol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\CreativeSol.Domain.AssemblyInfoInputs.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\CreativeSol.Domain.AssemblyInfo.cs
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\CreativeSol.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\CreativeSol.Domain.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\refint\CreativeSol.Domain.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\CreativeSol.Domain.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Domain\obj\Debug\net8.0\ref\CreativeSol.Domain.dll

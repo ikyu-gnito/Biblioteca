@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CreativeSol.Domain\CreativeSol.Domain.csproj" />
+    <ProjectReference Include="..\CreativeSol.Application\CreativeSol.Application.csproj" />
+    <ProjectReference Include="..\CreativeSol.Infra.Data\CreativeSol.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

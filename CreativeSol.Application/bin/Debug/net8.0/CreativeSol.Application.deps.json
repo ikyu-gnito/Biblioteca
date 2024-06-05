@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CreativeSol.Application/1.0.0": {
+        "dependencies": {
+          "CreativeSol.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CreativeSol.Application.dll": {}
+        }
+      },
+      "CreativeSol.Domain/1.0.0": {
+        "runtime": {
+          "CreativeSol.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreativeSol.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreativeSol.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

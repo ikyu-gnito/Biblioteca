@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CreativeSol.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CreativeSol.Application": "1.0.0",
+          "CreativeSol.Domain": "1.0.0",
+          "CreativeSol.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "CreativeSol.Infra.IoC.dll": {}
+        }
+      },
+      "CreativeSol.Application/1.0.0": {
+        "dependencies": {
+          "CreativeSol.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CreativeSol.Application.dll": {}
+        }
+      },
+      "CreativeSol.Domain/1.0.0": {
+        "runtime": {
+          "CreativeSol.Domain.dll": {}
+        }
+      },
+      "CreativeSol.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CreativeSol.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CreativeSol.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreativeSol.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreativeSol.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreativeSol.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreativeSol.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

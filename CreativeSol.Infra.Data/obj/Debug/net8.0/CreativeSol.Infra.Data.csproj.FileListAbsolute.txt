@@ -1,0 +1,15 @@
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\bin\Debug\net8.0\CreativeSol.Infra.Data.deps.json
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\bin\Debug\net8.0\CreativeSol.Infra.Data.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\bin\Debug\net8.0\CreativeSol.Infra.Data.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\bin\Debug\net8.0\CreativeSol.Domain.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\bin\Debug\net8.0\CreativeSol.Domain.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\CreativeSol.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\CreativeSol.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\CreativeSol.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\CreativeSol.Infra.Data.AssemblyInfo.cs
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\CreativeSol.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\Creative.A8045E1D.Up2Date
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\CreativeSol.Infra.Data.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\refint\CreativeSol.Infra.Data.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\CreativeSol.Infra.Data.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Infra.Data\obj\Debug\net8.0\ref\CreativeSol.Infra.Data.dll

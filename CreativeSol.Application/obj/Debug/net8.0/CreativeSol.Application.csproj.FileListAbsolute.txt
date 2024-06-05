@@ -1,0 +1,15 @@
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\bin\Debug\net8.0\CreativeSol.Application.deps.json
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\bin\Debug\net8.0\CreativeSol.Application.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\bin\Debug\net8.0\CreativeSol.Application.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\bin\Debug\net8.0\CreativeSol.Domain.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\bin\Debug\net8.0\CreativeSol.Domain.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\CreativeSol.Application.csproj.AssemblyReference.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\CreativeSol.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\CreativeSol.Application.AssemblyInfoInputs.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\CreativeSol.Application.AssemblyInfo.cs
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\CreativeSol.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\Creative.B6F99FC2.Up2Date
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\CreativeSol.Application.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\refint\CreativeSol.Application.dll
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\CreativeSol.Application.pdb
+C:\Users\Yuki\CreativeSol\CreativeSol.Application\obj\Debug\net8.0\ref\CreativeSol.Application.dll
